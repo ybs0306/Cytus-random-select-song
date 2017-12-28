@@ -1,0 +1,211 @@
+A-01	Alive: Operators
+I-01	Light up my Love
+I-02	Ververg
+I-02	Ververg II
+I-03	Chemical Star
+I-04	Visions
+I-05	Les Parfums de L'Amour
+I-06	Retrospective
+I-07	The Silence
+I-08	D R G
+I-09	Secret Garden
+I-10	Hot Air Balloon
+A-02	Alive: Disaster
+II-01	Iris
+II-02	Sanctity
+II-03	Sacred
+II-04	Green Eyes
+II-05	Nocturnal Type
+II-06	Precipitation
+II-06	Precipitation Ver.B
+II-07	Hard Landing
+II-08	Entrance
+II-08	Precipitation at the Entrance I
+II-08	Precipitation at the Entrance II
+A-03	Alive: Cytus
+III-01	The Riddle Story
+III-02	Libera me
+III-03	COSMO
+III-04	Prismatic Lollipops
+III-05	otome
+III-06	Spectrum
+III-07	Halcyon
+III-08	The Black Case
+III-09	Saika
+III-09	Saika II
+A-04	Alive: The Silence
+IIII-01	EVIL FORCE
+IIII-02	NEW WORLD
+IIII-03	LANDSCAPE
+IIII-04	Future World
+IIII-05	Parousia
+IIII-06	Skuld
+IIII-07	DARKNESS
+IIII-08	Beyond
+IIII-09	AREA184
+IIII-10	Sweetness and Love
+A-05	Alive: Vanessa
+V-01	HOLY KNIGHT
+V-02	DINO
+V-03	Majestic Phoenix
+V-04	SLEEPLESS JASMINE
+V-05	chocological
+V-06	Recollections
+V-07	Total Sphere
+V-08	Just A Trip
+V-09	Zauberkugel
+V-10	BIOTONIC
+A-06	Alive: The Lost
+VI-01	Dragon Warrior
+VI-02	Selfish Gene
+VI-03	Realize
+VI-04	Colorful Skies
+VI-05	IT'S A WONDERFUL WORLD
+VI-06	BLOODY PURITY
+VI-07	LOGICAL STEPS
+VI-08	Niflheimr
+VI-09	OLD GOLD
+VI-10	THE BLOCKS WE LOVED
+A-07	Alive: Loom
+VII-01	Black Lair
+VII-02	The Last Illusion
+VII-03	Galaxy Collapse
+VII-04	L
+VII-04	L2 (Ver.A)
+VII-04	L2 (Ver.B)
+VII-05	Gate of Expectancy
+VII-06	Rainbow Night Sky Highway
+VII-07	Quantum Labyrinth
+VII-08	Musik
+VII-09	Hercule
+VII-10	Aquatic Poseidon
+A-08	Alive: Another Me
+VIII-01	Masquerade
+VIII-02	Her Sword
+VIII-03	Morpho
+VIII-04	Slit
+VIII-04	Slit O
+VIII-04	Slit I
+VIII-05	Laplace
+VIII-06	Q
+VIII-07	Scherzo
+VIII-08	AXION
+VIII-09	Code 03
+VIII-10	Reverence
+A-09	Alive: Buried
+IX-01	Oriens
+IX-02	HEY WONDER
+IX-03	Brionac
+IX-04	First Gate
+IX-04	First Gate Overdrive
+IX-05	Qualia
+IX-06	East West Wobble
+IX-07	Warlords of Atlantis
+IX-08	To Further Dream
+IX-09	COMA
+IX-10	Codename:Zero
+A-10	Alive: The New World
+X-01	Freedom Dive
+X-01	Freedom D(下)ve (wwwww
+X-02	Halloween Party
+X-03	YURERO
+X-04	Twenty One
+X-05	Solar Wind
+X-06	Red Eyes
+X-07	Finite Circuit
+X-08	Set Free
+X-09	Do Not Wake
+X-10	GATORIX
+0-1	PROCESS
+0-2	Endless Journey
+0-3	Shoot out
+0-4	LNS OP
+0-5	Blue Eyes
+0-6	Diskord
+0-7	Infernus
+0-8	Megaera
+0-9	Violet
+0-10	(倒著的驚嘆號)Azucar!
+S-01	LVBNR5 Schwarz
+S-02	Vivere la Vita
+S-03	Rain of Fire
+S-04	Molto Allegro
+S-05	Revoluxionist
+S-06	LVBNR5 Wei(杯塔)
+S-07	Chaotic Drive
+S-08	Outsider
+S-09	Requiem
+S-10	The Purified
+K-01	The Way We Were
+K-02	The Sanctuary
+K-03	The Red Coronation
+K-04	Forbidden Codex
+K-05	Knight of Firmament
+K-06	Lord of Crimson Rose
+K-07	Predawn
+K-08	The Fallen Bloom
+K-09	Where You Are Not
+K-10	Music. The Eternity of Us
+R-01	Theme of Kingdom No.8
+R-02	Jump to the Future
+R-03	Let's Go on an Adventure
+R-04	Hay Fields
+R-04	∞ Fields
+R-05	Adventure
+R-06	Dream
+R-07	VIT master
+R-08	Fight With Your Devil
+R-09	Devil in Wonderland
+R-10	Conflict (YM2151 Edit)
+R-10	Conflict
+T-01	Penglai Movement
+T-02	Aboriginal
+T-03	Dutch Formosa
+T-04	Empire of Japan
+T-05	MONEY & MONEY
+T-06	Phubbing
+T-07	Protest
+T-08	Catastrophe
+T-09	Rebirth
+T-10	A New Home
+D-01	Rainy Memory
+D-02	Undo
+D-03	Hua Sui Yue
+D-04	I race the dawn
+D-05	Wings of Piano
+D-06	Utopiosphere
+D-07	Fable
+D-08	Angelic Sphere
+D-09	Leviathan
+D-10	Magnolia
+D-10	Myosotis
+L-01	L1: The Devastated Lower
+L-02	L2 : Ascension To The Upper
+L-03	L3 : Roar, On The Deserted Lands
+L-04	L4 : The Unrevealed
+L-05	L5 : The Revealed
+L-06	L6 : Viz Awakened
+L-07	L7 : Almighty
+L-08	L8 : Meteor - Farewell
+L-09	L9 : Meteo - Mourn
+L-10	L10: In Memory of Maneo.
+N-1	The Secret of Nightland
+N-2	The Spy's Name
+N-3	Night Festival
+N-4	Times Difference War
+N-5	Fantasy Hotel
+N-6	Steven Bites Time
+N-7	The Cure of Sleep
+N-8	Choice
+A-M	Alive: The Beginning
+M-1	Stardust Sphere
+M-2	The Ricochet
+M-2	The Long Years
+M-3	The Sacred Story
+M-4	Area184 -Platinum Mix-
+M-5	Gardenia
+M-6	Sweetness Overload!!!
+M-7	Les Parfums de Celebrez
+M-8	Afterglow
+M-9	GENESYS
+M-10	STORIA
